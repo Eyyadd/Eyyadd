@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hi, I'm Eyad 👋
 
-<!--
-**Eyyadd/Eyyadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skilled Disciplined Junior Backend Developer with expertise in ASP.NET, specializing in creating robust and scalable server-side applications. Proficient in debugging complex issues, ensuring smooth and efficient application performance. Some experience in Angular and user interface development brings a comprehensive approach to delivering high-performance solutions that enhance both system reliability and user experiences.
 
-Here are some ideas to get you started:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyyadd)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
