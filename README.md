@@ -1,7 +1,7 @@
 <h1 align="center" style="color:red">Hi, I'm Eyad 🙋‍♂️👨‍💻</h1>
 
 <h2 align="center"> About Me 😶‍🌫️</h2>
-Skilled Disciplined Junior Backend Developer with expertise in ASP.NET, specializing in creating robust and scalable server-side applications. Proficient in debugging complex issues, ensuring smooth and efficient application performance. Some experience in Angular and user interface development brings a comprehensive approach to delivering high-performance solutions that enhance both system reliability and user experiences.
+Skilled Disciplined Backend Developer with expertise in ASP.NET, specializing in creating robust and scalable server-side applications. Proficient in debugging complex issues, ensuring smooth and efficient application performance. Some experience in Angular and user interface development brings a comprehensive approach to delivering high-performance solutions that enhance both system reliability and user experiences.
 
 <hr>
 
